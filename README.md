@@ -26,6 +26,11 @@ MLPs are widely used for **classification tasks**, such as handwritten digit rec
      python lab2_mlp.py
 ```
 
+### Requirements
+- Python 3.9+
+- Tensorflow 2.12+
+- Matplotlib
+
 
 ## Steps of Implementation
 
