@@ -23,7 +23,7 @@ MLPs are widely used for **classification tasks**, such as handwritten digit rec
 ### How to Run
 ```bash
      pip install tensorflow matplotlib
-     python lab2_mlp.py
+     python mlp.py
 ```
 
 ### Requirements
