@@ -1,5 +1,4 @@
-# Layered-Neuron-Networks-MLP
-# Laboratory Work №2 — Multilayer Perceptron (MLP)
+# Multilayer Perceptron (MLP)
 
 ## Topic
 **Multilayer Neural Networks (Multilayer Perceptron, MLP)**
@@ -87,3 +86,8 @@ plt.ylabel('Validation Accuracy')
 plt.legend()
 plt.show()
 ```
+
+
+Author:  Miras Tleusserik
+Course: Neural Networks
+Lab #2: Multilayer Perceptron (MLP)
